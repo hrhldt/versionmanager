@@ -1,10 +1,10 @@
 {
   "versionInfo" : {
-    "isAPIError" : true,
-    "isForceUpdate" : false,
+    "isAPIError" : false,
+    "isForceUpdate" : true,
     "isUpdateAvailable" : false,
     "title" : "Error",
     "message" : "We are experiencing difficulties at the moment - unfortunately because of the problems you have to update the app. An update is being pushed to app store.",
-    "buildNumber" : 0
+    "buildNumber" : 14
     }
 }
