@@ -1,0 +1,4 @@
+versionmanager
+==============
+
+VersionManager external JSON.
